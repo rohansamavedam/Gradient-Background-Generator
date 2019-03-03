@@ -1,0 +1,21 @@
+body{
+	text-align: center;
+	background: linear-gradient(to right, red, yellow);
+	font-family: Karla;
+}
+
+
+h1{
+	text-align: center;
+	font-family: Karla;
+	font-size: 3em;
+}
+h2{
+	text-align: center;
+	font-family: Karla;
+	font-size: 25px;
+}
+
+/*.color1{
+	margin-left: 46.5%;
+}*/
